@@ -24,7 +24,7 @@ Após clonar o projeto em sua máquina navegue até o diretório raiz do projeto
   cd exploring-design-patterns
 ```
 
-## Passo 2.1
+## Passo 2
 
 Execute o comando de build :
 

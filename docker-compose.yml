@@ -8,7 +8,6 @@ services:
 
     volumes:
       - ./src:/api-app/src
-      -
     command: sh ./docker-entrypoint.sh
     ports:
       - 8080:8080
