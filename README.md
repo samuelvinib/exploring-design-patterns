@@ -26,17 +26,10 @@ Após clonar o projeto em sua máquina navegue até o diretório raiz do projeto
 
 ## Passo 2.1
 
-Se estiver usando windows execute o seguinte comando para buildar o projeto:
+Execute o comando de build :
 
 ```bash
-  start.bat
-```
-## Passo 2.2
-
-Ou estiver usando Linux/MacOs execute o seguinte comando para buildar o projeto:
-
-```bash
-  start.sh
+  docker compose up -d --build
 ```
 
 <br>
